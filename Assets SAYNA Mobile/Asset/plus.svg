@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="81" height="81" viewBox="0 0 81 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Groupes" transform="translate(0.5 0.5)">
+    <line id="Ligne" x1="0" y1="0" x2="0" y2="80" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-linecap="square" transform="translate(39 0)" />
+    <line id="Ligne" x1="0" y1="0" x2="80" y2="0" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-linecap="square" transform="translate(0 39)" />
+  </g>
+</svg>
